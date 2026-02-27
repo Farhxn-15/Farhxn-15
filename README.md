@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me 
 👨‍💻 Working On :<br>Building a Rural Health AI Assistant featuring AI chatbot support, outbreak alerts, and blood group registry & many more.<br>Also developing modern full-stack applications using React, Node.js, MySQL & Tailwind.<br><br>🤝 Open to Collaborate :<br>Interested in collaborating on full-stack and AI-powered web applications that solve real-world problems and improve accessibility.<br><br>🌱 Currently Learning :<br>AI Automation through n8n Engine, Graphs, DevOps practices, CI/CD pipelines, scalable system design, and integrating AI into web platforms.<br><br>💬 Ask Me About :<br>Full stack development, Data Structures, Algorithms,  building complete web apps, API integration, and deploying projects efficiently.<br><br>⚡ Fun Fact :<br>I love building projects that solve real problems in rural communities and improve accessibility through technology.
 
 
